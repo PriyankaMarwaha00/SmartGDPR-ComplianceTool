@@ -1,0 +1,27 @@
+﻿label,Type of Clause,Degree of Unfairness
+j1,Jurisdiction,1
+j2,Jurisdiction,2
+j3,Jurisdiction,3
+law1,Choice of Law ,1
+law2,Choice of Law ,2
+law3,Choice of Law ,3
+ter1,Unilateral  Termination ,1
+ter2,Unilateral  Termination ,2
+ter3,Unilateral  Termination ,3
+ltd1,Limitation of Liability ,1
+ltd2,Limitation of Liability ,2
+ltd3,Limitation of Liability ,3
+cr1,Content Removal,1
+cr2,Content Removal,2
+cr3,Content Removal,3
+a1,Arbitration ,1
+a2,Arbitration ,2
+a3,Arbitration ,3
+a4,Arbitration ,4
+ch1,Unilateral Change ,1
+ch2,Unilateral Change ,2
+ch3,Unilateral Change ,3
+use1,Contract by Using ,1
+use2,Contract by Using ,2
+use3,Contract by Using ,3
+unc,Unknown,0
